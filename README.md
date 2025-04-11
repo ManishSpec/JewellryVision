@@ -1,6 +1,6 @@
 
 ## 💎 🏠 Home Page
-![Home Page](![Image](https://github.com/user-attachments/assets/07aa1001-6ccf-4bb3-8a78-66dc114793c0))
+![Home Page](https://github.com/user-attachments/assets/07aa1001-6ccf-4bb3-8a78-66dc114793c0)
 
 
 # JewellryVision
@@ -24,4 +24,4 @@ To set up JewellryVision locally, follow these steps:
    git clone https://github.com/ManishSpec/JewellryVision.git
    
 ### 💍 Virtual Try-On Feature
-![Try-On Feature](![Image](https://github.com/user-attachments/assets/e2c35e9f-bcef-4eb8-baf2-949abb0bf430))
+![Try-On Feature](https://github.com/user-attachments/assets/e2c35e9f-bcef-4eb8-baf2-949abb0bf430)
