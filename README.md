@@ -1,5 +1,5 @@
 
-## 💎 🏠 Home Page
+## 🏠 Home Page
 ![Home Page](https://github.com/user-attachments/assets/07aa1001-6ccf-4bb3-8a78-66dc114793c0)
 
 
@@ -27,6 +27,7 @@ To set up JewellryVision locally, follow these steps:
 ![Try-On Feature](https://github.com/user-attachments/assets/e2c35e9f-bcef-4eb8-baf2-949abb0bf430)
 
 ## Core Features
+![Image](https://github.com/user-attachments/assets/add2fe1f-e1de-404b-9514-957d97cd88f6)
 
 ## Tech Stack
-
+![Image](https://github.com/user-attachments/assets/6c07a467-6dd3-4324-9de8-cd2e1cbc181c)
