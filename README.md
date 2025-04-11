@@ -1,3 +1,8 @@
+
+## 💎 🏠 Home Page
+![Home Page](![Image](https://github.com/user-attachments/assets/07aa1001-6ccf-4bb3-8a78-66dc114793c0))
+
+
 # JewellryVision
 
 JewellryVision is an innovative application designed to revolutionize the jewelry shopping experience by leveraging augmented reality (AR) technology.
@@ -17,10 +22,6 @@ To set up JewellryVision locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ManishSpec/JewellryVision.git
-## 💎 Website Preview
-
-### 🏠 Home Page
-![Home Page]()
-
+   
 ### 💍 Virtual Try-On Feature
-![Try-On Feature]()
+![Try-On Feature](![Image](https://github.com/user-attachments/assets/e2c35e9f-bcef-4eb8-baf2-949abb0bf430))
