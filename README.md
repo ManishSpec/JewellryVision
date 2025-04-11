@@ -25,3 +25,8 @@ To set up JewellryVision locally, follow these steps:
    
 ### 💍 Virtual Try-On Feature
 ![Try-On Feature](https://github.com/user-attachments/assets/e2c35e9f-bcef-4eb8-baf2-949abb0bf430)
+
+## Core Features
+
+## Tech Stack
+
